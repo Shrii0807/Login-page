@@ -19,5 +19,8 @@ Page 3 : (Only for Authenticated User, Integrate API) Create a functional Multi 
   Step 4: Multi File Upload 
   File Upload Field : Allow users to upload Multiple Files. Valid type PNG and PDF (Upload limit 5 file)
   Geolocation Status Field : Automatically record the Geolocation during this stage. Display the Geolocation capture process while acquiring the coordinates, and       update the status to indicate confirmation of Geolocation capture once the coordinates are recorded.
+ 
   Step 5: Status
+
+
 Display a relevant message indicating whether the form has been successfully submitted or not.
